@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://private-layer-43278.netlify.com/"
 relativeurls = true
 languageCode = "en-us"
 title = "A Hugo website"
